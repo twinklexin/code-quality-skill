@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Quality"
+  short_description: "Code writing, refactoring, review, and testing"
+  default_prompt: "Use $code-quality to implement, refactor, review, test, and verify code changes with disciplined quality gates."
